@@ -104,7 +104,7 @@
 >
 > `n = 8`Cancel changes
 >
-> ![](C:\Users\PC\Desktop\2.PNG)
+>![2](https://user-images.githubusercontent.com/80325051/118654115-2d66a580-b823-11eb-8757-38d2dc1908fa.PNG)
 >
 > `n = 16`
 >
