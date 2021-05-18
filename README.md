@@ -108,7 +108,7 @@
 >
 > `n = 16`
 >
-> ![](C:\Users\PC\Desktop\3.PNG)
+> ![3](https://user-images.githubusercontent.com/80325051/118654184-42433900-b823-11eb-9d8a-9f4184f03127.PNG)
 
 
 
