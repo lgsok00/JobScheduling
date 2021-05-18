@@ -100,9 +100,9 @@
 >
 > `n = 4`
 >
-> ![](C:\Users\PC\Desktop\1.PNG)
+>![1](https://user-images.githubusercontent.com/80325051/118653877-ef698180-b822-11eb-8407-06f7db35aa2c.PNG)
 >
-> `n = 8`
+> `n = 8`Cancel changes
 >
 > ![](C:\Users\PC\Desktop\2.PNG)
 >
